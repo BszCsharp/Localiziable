@@ -123,10 +123,10 @@
   <data name="label1.Text" xml:space="preserve">
     <value>Artikelnummer</value>
   </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="textBoxDatum.Location" type="System.Drawing.Point, System.Drawing">
-    <value>155, 146</value>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>5</value>
   </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="textBoxAnr.Size" type="System.Drawing.Size, System.Drawing">
     <value>118, 20</value>
   </data>
@@ -148,6 +148,9 @@
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
     <value>81, 13</value>
+  </data>
+  <data name="&gt;&gt;textBoxMenge.Name" xml:space="preserve">
+    <value>textBoxMenge</value>
   </data>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>6, 13</value>
@@ -296,9 +299,6 @@
   <data name="label3.Text" xml:space="preserve">
     <value>Kundennummer</value>
   </data>
-  <data name="&gt;&gt;label3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="&gt;&gt;textBoxDatum.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
@@ -311,8 +311,8 @@
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
     <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
-    <value>5</value>
+  <data name="textBoxDatum.Location" type="System.Drawing.Point, System.Drawing">
+    <value>155, 146</value>
   </data>
   <data name="&gt;&gt;label1.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -320,16 +320,13 @@
   <data name="textBoxDatum.Size" type="System.Drawing.Size, System.Drawing">
     <value>118, 20</value>
   </data>
-  <data name="&gt;&gt;textBoxMenge.Name" xml:space="preserve">
-    <value>textBoxMenge</value>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="label2.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
-  </metadata>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>en-GB</value>
   </metadata>
 </root>
