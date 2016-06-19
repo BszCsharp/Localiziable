@@ -80,6 +80,7 @@
             // 
             // textBoxDatum
             // 
+            this.textBoxDatum.BackColor = System.Drawing.Color.Red;
             resources.ApplyResources(this.textBoxDatum, "textBoxDatum");
             this.textBoxDatum.Name = "textBoxDatum";
             // 
