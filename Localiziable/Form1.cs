@@ -20,8 +20,8 @@ namespace Localiziable
         private void button1_Click(object sender, EventArgs e)
         {
             toolStripStatusLabel1.Text = Meldungen.ErfolgSpeichern;
-            //textBoxAnr.Text = "falsche  Meldungen";
-            //textBoxDatum.Text = DateTime.Now.ToString();
+            textBoxAnr.Text = "falsche  Meldung";
+            textBoxDatum.Text = DateTime.Now.ToString();
         }
     }
 }
