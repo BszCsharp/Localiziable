@@ -21,7 +21,6 @@ namespace Localiziable
         {
             toolStripStatusLabel1.Text = Meldungen.ErfolgSpeichern;
             textBoxAnr.Text = "falsche  Meldung";
-            textBoxDatum.Text = DateTime.Now.ToString();
         }
     }
 }
